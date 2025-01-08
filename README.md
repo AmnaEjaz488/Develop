@@ -21,6 +21,9 @@
   ## Usage
   
   Use as described in license terms and conditions.
+  Video demonstration of app functionality- https://app.screencastify.com/v2/manage/videos/iQrE6cYEQZ3z4ZZQEtwx , https://app.screencastify.com/v2/manage/videos/Ytv1rRA5OKzWPupEw6L1
+  
+  
   
   ## License
 
